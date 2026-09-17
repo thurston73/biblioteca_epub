@@ -15,7 +15,7 @@ En [Releases](https://github.com/thurston73/biblioteca_epub/releases/latest), el
 | Mac con macOS 11 Big Sur o más nuevo (Intel; en M1/M2 debería correr con Rosetta, sin probar) | `Biblioteca_ePub-macos.zip` |
 | Mac con macOS 10.13 High Sierra, 10.14 Mojave o 10.15 Catalina (Intel) | `Biblioteca_ePub-macos-legacy.zip` |
 
-Descomprimí el zip en una carpeta (en Windows, que no sea Archivos de programa; en Mac, que no sea Aplicaciones) y ejecutá `biblioteca_epub` (`biblioteca_epub.exe` en Windows, `Biblioteca_ePub.app` en Mac: la primera vez, clic derecho → Abrir, porque no tiene firma de Apple). Todo lo tuyo queda en la carpeta `datos/`, al lado del programa.
+Descomprimí el zip en una carpeta (en Windows, que no sea Archivos de programa; en Mac, que no sea Aplicaciones ni Escritorio, Documentos o Descargas: macOS pide permiso para esas carpetas con cada versión nueva) y ejecutá `biblioteca_epub` (`biblioteca_epub.exe` en Windows, `Biblioteca_ePub.app` en Mac: la primera vez, clic derecho → Abrir, porque no tiene firma de Apple). Todo lo tuyo queda en la carpeta `datos/`, al lado del programa.
 
 Cuando hay una versión nueva, la aplicación avisa, la baja, comprueba la firma y se actualiza sola, en los tres sistemas.
 
